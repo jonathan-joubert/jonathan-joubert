@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <p>📍 Based in Kempton Park, South Africa. </p>
 <p>🧠 I’m currently focused on TypeScript, React, and working with backend APIs.  </p>
@@ -35,7 +35,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<h2 align="center">Languages, Frameworks & Tools</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bun,tailwind,bootstrap,python,cs,java,mongodb,mysql,git,github,linux,vscode,wordpress,windows,vscodium,vite,vim,visualstudio,unity,ubuntu,ts,tensorflow,sklearn,replit,regex,redhat,raspberrypi,qt,powershell,postgres,opencv,npm,notion,nginx,netlify,neovim,mint,debian,docker,kali,gtk,flutter,dart,dotnet,bots,blender,bash,arduino,arch,anaconda,androidstudio," /><br>
@@ -45,9 +45,13 @@
 <hr/>
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2>My Contributions in Snake Game format!</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/badtzmaruu/badtzmaruu/blob/output/github-contribution-grid-snake.svg" />
+    <br>
+    <p align="left">
+        <b>See bottom of page for static contribution chart </b>
+    </p>
 </div>
 
 <br/><hr/><br/>
