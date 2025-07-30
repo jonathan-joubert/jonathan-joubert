@@ -1,19 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=badtzmaruu.badtzmaruu&format=true"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=280137&duration=4000&lines=Hi+There!+👋;+I'm+Jonathan+Joubert!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=d79921&duration=4000&lines=Hi+I'm+Jonathan+Joubert!;Feel free to squiz!;" />
 </h1>
 
-<h3 align="center">I'm a curious coder exploring full-stack development</h3>
+<h3 align="center">Currently a junior full-stack developer</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 I’m currently learning Full Stack Web Development on my own journey.  
-🌱 I’m focused on JavaScript, Bun, and backend APIs.  
-💬 Ask me about GitHub Actions or open source stuff!  
-⚡ Fun fact: I love music
+📍 Based in Kempton Park, South Africa.  
+🧠 I’m currently focused on TypeScript, React, and working with backend APIs.  
+💬 Feel free to ask me about the latest tech, or open source stuff!
+🗓️ I'm 21 years old in my last year of university, open to internship opportunities!
+💡 Fun fact: I love experimenting with Linux distros.
 
 </div>
 
@@ -21,10 +22,13 @@
 
 <div align="center"> 
   <a href="mailto:rjoubert@fibco.co.za">
-     <img src="https://img.shields.io/badge/rjoubert@fibco.co.za-blue?style=for-the-badge&logo=maildotru&logoColor=white" />
+     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=maildotru&logoColor=white"                   target="_blank"/>
+  </a>
+  <a href="https://jjoubert.fibco.co.za" target="_blank">
+     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-                                    chrome&logoColor=white" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/jr-joubert/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"               target="_blank" />
   </a>
 </div>
 
@@ -42,12 +46,12 @@
 <div align="center">
   <h2>My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/YiBbz/YiBbz/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/badtzmaruu/badtzmaruu/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/><hr/><br/>
 
-<h2 align="center">⚡ Jonathan's GitHub Stats ⚡</h2>
+<h2 align="center">Jonathan's GitHub Stats</h2>
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=badtzmaruu&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="Jonathan's GitHub Stats" width="400" />
@@ -62,7 +66,7 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=280137&duration=4000&lines=Thank+You!;For+Visiting+My+Profile!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=d79921&duration=4000&lines=Thank+You!;For+Visiting+My+Profile!;" />
 </h1>
 
 <br/>
