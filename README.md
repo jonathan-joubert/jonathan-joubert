@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=badtzmaruu.badtzmaruu&format=true"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jonathan-joubert.jonathan-joubert&format=true"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=d79921&duration=4000&lines=Hi+I'm+Jonathan+Joubert!;Feel+free+to+squiz!;" />
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>My Contributions in Snake Game format!</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/badtzmaruu/badtzmaruu/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/jonathan-joubert/jonathan-joubert/blob/output/github-contribution-grid-snake.svg" />
     <br>
     <br>
     <p align="center">
@@ -60,10 +60,10 @@
 <h2 align="center">Jonathan's GitHub Stats</h2>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=badtzmaruu&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="Jonathan's GitHub Stats" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badtzmaruu&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" width="340" />   
+    <img src="https://github-readme-stats.vercel.app/api?username=jonathan-joubert&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="Jonathan's GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-joubert&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" width="340" />   
 <br>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=badtzmaruu&theme=gruvbox" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonathan-joubert&theme=gruvbox" alt="GitHub Streak" /></a>
 </div>
  
 
