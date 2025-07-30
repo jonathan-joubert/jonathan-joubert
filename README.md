@@ -49,7 +49,8 @@
   <br>
   <img alt="snake eating my contributions" src="https://github.com/badtzmaruu/badtzmaruu/blob/output/github-contribution-grid-snake.svg" />
     <br>
-    <p align="left">
+    <br>
+    <p align="center">
         <b>See bottom of page for static contribution chart </b>
     </p>
 </div>
