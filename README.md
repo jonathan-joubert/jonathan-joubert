@@ -21,7 +21,7 @@
 
 <div align="center"> 
   <a href="mailto:rjoubert@fibco.co.za">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+     <img src="https://img.shields.io/badge/Email-rjoubert@fibco.co.za-blue?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jr-joubert/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bun,tailwind,bootstrap,python,cs,java,mongodb,mysql,git,github,linux,vscode,codium" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bun,tailwind,bootstrap,python,cs,java,mongodb,mysql,git,github,linux,vscode,wordpress,windows,vscodium,vite,vim,visualstudio,unity,ubuntu,ts,tensorflow,sklearn,replit,regex,redhat,raspberrypi,qt,powershell,postgres,opencv,npm,notion,nginx,netlify,neovim,mint,debian,docker,kali,gtk,flutter,dart,dotnet,bots,blender,bash,arduino,arch,anaconda,androidstudio," /><br>
 </div>
 
 <br/>
