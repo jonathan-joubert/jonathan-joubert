@@ -21,7 +21,7 @@
 
 <div align="center"> 
   <a href="mailto:rjoubert@fibco.co.za">
-     <img src="https://img.shields.io/badge/Email-rjoubert@fibco.co.za-blue?style=for-the-badge&logo=maildotru&logoColor=white" />
+     <img src="https://img.shields.io/badge/rjoubert@fibco.co.za-blue?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jr-joubert/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
