@@ -47,7 +47,7 @@
 <div align="center">
   <h2>My Contributions in Snake Game format!</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/jonathan-joubert/jonathan-joubert/blob/output/ocean.gif" />
+    <img alt="snake eating my contributions" src="https://github.com/jonathan-joubert/jonathan-joubert/blob/output/github-contribution-grid-snake-dark.svg" />
     <br>
     <br>
     <p align="center">
