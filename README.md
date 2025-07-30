@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=badtzmaruu.badtzmaruu&format=true"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=d79921&duration=4000&lines=Hi+I'm+Jonathan+Joubert!;Feel free to squiz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=d79921&duration=4000&lines=Hi+I'm+Jonathan+Joubert!;Feel+free+to+squiz!;" />
 </h1>
 
 <h3 align="center">Currently a junior full-stack developer</h3>
@@ -10,27 +10,28 @@
 
 <div align="center">
 
-📍 Based in Kempton Park, South Africa.  
-🧠 I’m currently focused on TypeScript, React, and working with backend APIs.  
-💬 Feel free to ask me about the latest tech, or open source stuff!
-🗓️ I'm 21 years old in my last year of university, open to internship opportunities!
-💡 Fun fact: I love experimenting with Linux distros.
+<p>📍 Based in Kempton Park, South Africa. </p>
+<p>🧠 I’m currently focused on TypeScript, React, and working with backend APIs.  </p>
+<p>💬 Feel free to ask me about the latest tech, or open source stuff!</p>
+<p>🗓️ I'm 21 years old in my last year of university, open to internship opportunities!</p>
+<p>💡 Fun fact: I love experimenting with Linux distros.</p>
 
 </div>
 
 <br/>
 
 <div align="center"> 
-  <a href="mailto:rjoubert@fibco.co.za">
-     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=maildotru&logoColor=white"                   target="_blank"/>
+  <a href="mailto:rjoubert@fibco.co.za" target="_blank">
+    <img src="https://img.shields.io/badge/Email-_-blue?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://jjoubert.fibco.co.za" target="_blank">
-     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-                                    chrome&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/Website-_-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jr-joubert/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"               target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-_-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 
 <hr/>
 
