@@ -38,7 +38,7 @@
 <h2 align="center">Languages, Frameworks & Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bun,tailwind,bootstrap,python,cs,java,mongodb,mysql,git,github,linux,vscode,wordpress,windows,vscodium,vite,vim,visualstudio,unity,ubuntu,ts,tensorflow,sklearn,replit,regex,redhat,raspberrypi,qt,powershell,postgres,opencv,npm,notion,nginx,netlify,neovim,mint,debian,docker,kali,gtk,flutter,dart,dotnet,bots,blender,bash,arduino,arch,anaconda,androidstudio," /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cs,java,mongodb,mysql,git,github,linux,vim,unity,ts,tensorflow,sklearn,replit,raspberrypi,postgres,docker,dotnet,bash,arduino" /><br>
 </div>
 
 <br/>
