@@ -57,17 +57,7 @@
 
 <br/><hr/><br/>
 
-<h2 align="center">Jonathan's GitHub Stats</h2>
-<br>
-<div align="center" style="background-color:#1d2021">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonathan-joubert&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="Jonathan's GitHub Stats" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-joubert&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" width="340" />   
-<br>
-    <!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonathan-joubert&theme=gruvbox" alt="GitHub Streak" /></a>-->
-</div>
- 
-
-<br/><br/>
+<br/>
 <hr/>
 <br/>
 
