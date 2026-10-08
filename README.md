@@ -10,11 +10,11 @@
 
 <div align="left">
 
-<p>📍 Based in Kempton Park, South Africa. </p>
-<p>🧠 I’m currently focused on learning TypeScript and React.  </p>
-<p>💬 Feel free to reach out and discuss about any of the latest tech!</p>
-<p>🗓️ I'm 21 years old and in my 4th year of university</p>
-<p>💡 Fun fact: I love experimenting with Linux distros.</p>
+<p>Based in Kempton Park, South Africa. </p>
+<p>I’m currently focused on learning TypeScript and React.  </p>
+<p>Feel free to reach out and discuss about any of the latest tech!</p>
+<p>I'm 21 years old and in my 4th year of university</p>
+<p>Fun fact: I love experimenting with Linux distros.</p>
 
 </div>
 
